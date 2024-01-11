@@ -6,7 +6,7 @@ const Lore = {
   
   code: [Javascript, Typescript, HTML, CSS, ES6, JSON, NoSQL],
   
-  tools: [React, Redux, React Native, Node, Srum, PostgreSQL, MongoDb, Sequelize],
+  tools: [React, Redux, React Native, Node, PostgreSQL, MongoDb, Sequelize, Docker, OpenShift, DevOps, MySQL, Redis],
   
   skills: ["marketing, brand manager, market analysis, lateral thinking, graphology"],
 
