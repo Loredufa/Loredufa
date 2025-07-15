@@ -39,7 +39,7 @@
 ## 🎓 Certificaciones
 
 - [Red Hat Certified Specialist in OpenShift Administration](https://www.credly.com/badges/2cdb915e-a448-4103-a404-579db0d62315/public_url)  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Openshift-LogoType.svg" alt="OpenShift" width="120"/>
+  <img src="https://www.credly.com/badges/2cdb915e-a448-4103-a404-579db0d62315/public_url" alt="OpenShift" width="120"/>
 
 ---
 
