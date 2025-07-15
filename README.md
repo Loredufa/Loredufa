@@ -1,14 +1,56 @@
-A little more about me...
+# 👩‍💻 Lorena Dufaur
 
-const Lore = {
+¡Hola! Soy Lorena, una apasionada Full Stack Developer con una sólida base en Administración y una curiosidad insaciable por la tecnología y el aprendizaje continuo.
 
-  education: "Full Stack Developer" | "Degree in Administration",
-  
-  code: [Javascript, Typescript, HTML, CSS, ES6, JSON, NoSQL],
-  
-  tools: [React, Redux, React Native, Node, PostgreSQL, MongoDb, Sequelize, Docker, OpenShift, DevOps, MySQL, Redis],
-  
-  skills: ["marketing, brand manager, market analysis, lateral thinking, graphology"],
+---
 
- challenge: "I am doing an English course and I will begin to study data science"
-}
+## 🚀 Sobre mí
+
+- **Educación:**
+  - Full Stack Developer
+  - Licenciatura en Administración
+- **Desafío actual:**
+  - Estudiando inglés y comenzando Data Science
+
+---
+
+## 💻 Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Openshift-LogoType.svg" alt="OpenShift" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/IBM_Watson_Logo_2017.png" alt="Watson" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40"/>
+</p>
+
+---
+
+## 🧠 Habilidades
+
+- Marketing
+- Gestión de proyectos
+- Scrum
+- Pensamiento lateral
+
+
+---
+
+## 🌱 Siempre aprendiendo
+
+Actualmente, estoy perfeccionando mi inglés y comenzando mi camino en Data Science. ¡Me encanta enfrentar nuevos retos y crecer cada día!
+
+---
+
+¿Te gustaría saber más o colaborar? ¡Contáctame y creemos algo increíble juntos!
+
